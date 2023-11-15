@@ -21,5 +21,7 @@ int main(){
     strcat(str2,str1);
     printf("%s\n",str2);
 
+    printf("everything is fine\n");
+
     return 0;
 }
