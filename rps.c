@@ -3,6 +3,7 @@
 #include <stdlib.h>
 
 int main(){
+    
     // to clear the console
     printf("pls press enter key");
     getchar();
