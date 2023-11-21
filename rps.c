@@ -4,7 +4,7 @@
 
 int main(){
     
-    // to clear the console
+    // to clear the console for a better user experience
     printf("pls press enter key");
     getchar();
     system("cls");
